@@ -1,0 +1,1415 @@
+fileFormatVersion: 2
+guid: ab884195630361a42bcb48a13469ebff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -924644113095594868
+    second: ForestRanger_ByMerryDreamGames_0
+  - first:
+      213: -379806935663376669
+    second: ForestRanger_ByMerryDreamGames_1
+  - first:
+      213: -7245612593772911905
+    second: ForestRanger_ByMerryDreamGames_2
+  - first:
+      213: 6083027396470491098
+    second: ForestRanger_ByMerryDreamGames_3
+  - first:
+      213: 5879620996390394259
+    second: ForestRanger_ByMerryDreamGames_4
+  - first:
+      213: -7113752649301522913
+    second: ForestRanger_ByMerryDreamGames_5
+  - first:
+      213: 6818832156259695897
+    second: ForestRanger_ByMerryDreamGames_6
+  - first:
+      213: 815275566550808953
+    second: ForestRanger_ByMerryDreamGames_7
+  - first:
+      213: -2587594970910417546
+    second: ForestRanger_ByMerryDreamGames_8
+  - first:
+      213: 1219410660371182644
+    second: ForestRanger_ByMerryDreamGames_9
+  - first:
+      213: -8853986570095986510
+    second: ForestRanger_ByMerryDreamGames_10
+  - first:
+      213: 8759919926842931906
+    second: ForestRanger_ByMerryDreamGames_11
+  - first:
+      213: 4371281222652109070
+    second: ForestRanger_ByMerryDreamGames_12
+  - first:
+      213: -1493047166074980734
+    second: ForestRanger_ByMerryDreamGames_13
+  - first:
+      213: 3389614108143310160
+    second: ForestRanger_ByMerryDreamGames_14
+  - first:
+      213: 5582486533671642109
+    second: ForestRanger_ByMerryDreamGames_15
+  - first:
+      213: 2849277855398290520
+    second: ForestRanger_ByMerryDreamGames_16
+  - first:
+      213: -1039728680434301323
+    second: ForestRanger_ByMerryDreamGames_17
+  - first:
+      213: -6069835907742270279
+    second: ForestRanger_ByMerryDreamGames_18
+  - first:
+      213: -6611604071871642375
+    second: ForestRanger_ByMerryDreamGames_19
+  - first:
+      213: -1842735967261377717
+    second: ForestRanger_ByMerryDreamGames_20
+  - first:
+      213: -5162174215581569377
+    second: ForestRanger_ByMerryDreamGames_21
+  - first:
+      213: 7113555248019754265
+    second: ForestRanger_ByMerryDreamGames_22
+  - first:
+      213: 8756906614991206718
+    second: ForestRanger_ByMerryDreamGames_23
+  - first:
+      213: -8770377946072759082
+    second: ForestRanger_ByMerryDreamGames_24
+  - first:
+      213: -7659817139115638545
+    second: ForestRanger_ByMerryDreamGames_25
+  - first:
+      213: 3903832379512775484
+    second: ForestRanger_ByMerryDreamGames_26
+  - first:
+      213: -8835622854073433388
+    second: ForestRanger_ByMerryDreamGames_27
+  - first:
+      213: -4525042207130067384
+    second: ForestRanger_ByMerryDreamGames_28
+  - first:
+      213: 1170272923030791145
+    second: ForestRanger_ByMerryDreamGames_29
+  - first:
+      213: 701615702190658347
+    second: ForestRanger_ByMerryDreamGames_30
+  - first:
+      213: -4422929660686731927
+    second: ForestRanger_ByMerryDreamGames_31
+  - first:
+      213: -7203879432550250825
+    second: ForestRanger_ByMerryDreamGames_32
+  - first:
+      213: 8823538423513147520
+    second: ForestRanger_ByMerryDreamGames_33
+  - first:
+      213: -2810436303442958752
+    second: ForestRanger_ByMerryDreamGames_34
+  - first:
+      213: -8191464861356939617
+    second: ForestRanger_ByMerryDreamGames_35
+  - first:
+      213: -2051943711344243939
+    second: ForestRanger_ByMerryDreamGames_36
+  - first:
+      213: 4603629967832412926
+    second: ForestRanger_ByMerryDreamGames_37
+  - first:
+      213: 7912812066475615455
+    second: ForestRanger_ByMerryDreamGames_38
+  - first:
+      213: -1845675582308491588
+    second: ForestRanger_ByMerryDreamGames_39
+  - first:
+      213: -7720070332433115404
+    second: ForestRanger_ByMerryDreamGames_40
+  - first:
+      213: 2289504463903242266
+    second: ForestRanger_ByMerryDreamGames_41
+  - first:
+      213: -4368950320787358199
+    second: ForestRanger_ByMerryDreamGames_42
+  - first:
+      213: -1227040925610680576
+    second: ForestRanger_ByMerryDreamGames_43
+  - first:
+      213: -7180165408886219295
+    second: ForestRanger_ByMerryDreamGames_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 18
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ce74ff3110b23f0800000000000000
+      internalID: -924644113095594868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e60e84ba97aabaf0800000000000000
+      internalID: -379806935663376669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2a1102cb9627b90800000000000000
+      internalID: -7245612593772911905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7c79510314b6450800000000000000
+      internalID: 6083027396470491098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39917c7052c989150800000000000000
+      internalID: 5879620996390394259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16836ed7afd64d90800000000000000
+      internalID: -7113752649301522913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dbed8e7bb51ae50800000000000000
+      internalID: 6818832156259695897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f05aeec0705b00800000000000000
+      internalID: 815275566550808953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d1c486514071cd0800000000000000
+      internalID: -2587594970910417546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434bfbee8873ce010800000000000000
+      internalID: 1219410660371182644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8795bff12502580800000000000000
+      internalID: -8853986570095986510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cab65ce2cc719970800000000000000
+      internalID: 8759919926842931906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a389ac19e9ac30800000000000000
+      internalID: 4371281222652109070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28672315381a74be0800000000000000
+      internalID: -1493047166074980734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d88982145a0f20800000000000000
+      internalID: 3389614108143310160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df366e2dce9f87d40800000000000000
+      internalID: 5582486533671642109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854e6650d1baa8720800000000000000
+      internalID: 2849277855398290520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5768deb16442291f0800000000000000
+      internalID: -1039728680434301323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc7c1ab66c93cba0800000000000000
+      internalID: -6069835907742270279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4809c502dde34a0800000000000000
+      internalID: -6611604071871642375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bbc88a6694d66e0800000000000000
+      internalID: -1842735967261377717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e649bb6e54c58b0800000000000000
+      internalID: -5162174215581569377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d45501fcc68b260800000000000000
+      internalID: 7113555248019754265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39b1d59b28c68970800000000000000
+      internalID: 8756906614991206718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4c96ab9bb594680800000000000000
+      internalID: -8770377946072759082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0409a35ecd2b590800000000000000
+      internalID: -7659817139115638545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33e683add23d2630800000000000000
+      internalID: 3903832379512775484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d241adc3df816580800000000000000
+      internalID: -8835622854073433388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84edc5a5612d331c0800000000000000
+      internalID: -4525042207130067384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3228be505ad3010800000000000000
+      internalID: 1170272923030791145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2319e983c3acb900800000000000000
+      internalID: 701615702190658347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9657a3448e89e92c0800000000000000
+      internalID: -4422929660686731927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6891ae2dda60c90800000000000000
+      internalID: -7203879432550250825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088e2837271837a70800000000000000
+      internalID: 8823538423513147520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066ab6582135ff8d0800000000000000
+      internalID: -2810436303442958752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96a9bcdb12125e80800000000000000
+      internalID: -8191464861356939617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bca32f0180683e0800000000000000
+      internalID: -2051943711344243939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef27efd801163ef30800000000000000
+      internalID: 4603629967832412926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd424bc86a4ffcd60800000000000000
+      internalID: 7912812066475615455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed3e136d7d266e0800000000000000
+      internalID: -1845675582308491588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6da427fecccd490800000000000000
+      internalID: -7720070332433115404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18bf9afd24f5cf10800000000000000
+      internalID: 2289504463903242266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ef328b4de5e53c0800000000000000
+      internalID: -4368950320787358199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fdb1087cca8fee0800000000000000
+      internalID: -1227040925610680576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed1ace4a9dea5c90800000000000000
+      internalID: -7180165408886219295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae3d1e238678e24e9ae787159c48787
+      internalID: 196954716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefc472e82b732444975f24e87402c8b
+      internalID: -752336985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd78bac0e9a1ae46a9f676f83469f14
+      internalID: -620353661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3de084e4633b945a7036b50383f3a0
+      internalID: 427915252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForestRanger_ByMerryDreamGames_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24e48dbfe85af4d8c4eb7f910c938c
+      internalID: 526550456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2838aefe5313ced499173ebbad8aec54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ForestRanger_ByMerryDreamGames_0: -924644113095594868
+      ForestRanger_ByMerryDreamGames_1: -379806935663376669
+      ForestRanger_ByMerryDreamGames_10: -8853986570095986510
+      ForestRanger_ByMerryDreamGames_11: 8759919926842931906
+      ForestRanger_ByMerryDreamGames_12: 4371281222652109070
+      ForestRanger_ByMerryDreamGames_13: -1493047166074980734
+      ForestRanger_ByMerryDreamGames_14: 3389614108143310160
+      ForestRanger_ByMerryDreamGames_15: 5582486533671642109
+      ForestRanger_ByMerryDreamGames_16: 2849277855398290520
+      ForestRanger_ByMerryDreamGames_17: -1039728680434301323
+      ForestRanger_ByMerryDreamGames_18: -6069835907742270279
+      ForestRanger_ByMerryDreamGames_19: -6611604071871642375
+      ForestRanger_ByMerryDreamGames_2: -7245612593772911905
+      ForestRanger_ByMerryDreamGames_20: -1842735967261377717
+      ForestRanger_ByMerryDreamGames_21: -5162174215581569377
+      ForestRanger_ByMerryDreamGames_22: 7113555248019754265
+      ForestRanger_ByMerryDreamGames_23: 8756906614991206718
+      ForestRanger_ByMerryDreamGames_24: -8770377946072759082
+      ForestRanger_ByMerryDreamGames_25: -7659817139115638545
+      ForestRanger_ByMerryDreamGames_26: 3903832379512775484
+      ForestRanger_ByMerryDreamGames_27: -8835622854073433388
+      ForestRanger_ByMerryDreamGames_28: -4525042207130067384
+      ForestRanger_ByMerryDreamGames_29: 1170272923030791145
+      ForestRanger_ByMerryDreamGames_3: 6083027396470491098
+      ForestRanger_ByMerryDreamGames_30: 701615702190658347
+      ForestRanger_ByMerryDreamGames_31: -4422929660686731927
+      ForestRanger_ByMerryDreamGames_32: -7203879432550250825
+      ForestRanger_ByMerryDreamGames_33: 8823538423513147520
+      ForestRanger_ByMerryDreamGames_34: -2810436303442958752
+      ForestRanger_ByMerryDreamGames_35: -8191464861356939617
+      ForestRanger_ByMerryDreamGames_36: -2051943711344243939
+      ForestRanger_ByMerryDreamGames_37: 4603629967832412926
+      ForestRanger_ByMerryDreamGames_38: 7912812066475615455
+      ForestRanger_ByMerryDreamGames_39: -1845675582308491588
+      ForestRanger_ByMerryDreamGames_4: 5879620996390394259
+      ForestRanger_ByMerryDreamGames_40: -7720070332433115404
+      ForestRanger_ByMerryDreamGames_41: 2289504463903242266
+      ForestRanger_ByMerryDreamGames_42: -4368950320787358199
+      ForestRanger_ByMerryDreamGames_43: -1227040925610680576
+      ForestRanger_ByMerryDreamGames_44: -7180165408886219295
+      ForestRanger_ByMerryDreamGames_45: 196954716
+      ForestRanger_ByMerryDreamGames_46: -752336985
+      ForestRanger_ByMerryDreamGames_47: -620353661
+      ForestRanger_ByMerryDreamGames_48: 427915252
+      ForestRanger_ByMerryDreamGames_49: 526550456
+      ForestRanger_ByMerryDreamGames_5: -7113752649301522913
+      ForestRanger_ByMerryDreamGames_6: 6818832156259695897
+      ForestRanger_ByMerryDreamGames_7: 815275566550808953
+      ForestRanger_ByMerryDreamGames_8: -2587594970910417546
+      ForestRanger_ByMerryDreamGames_9: 1219410660371182644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
